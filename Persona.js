@@ -55,4 +55,9 @@ class Persona {
     set sustantivo(sustantivo) {
         this.sustantivo = sustantivo;
     }
+
+    generarFrase(){
+        
+    }
+
 }

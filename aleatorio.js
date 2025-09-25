@@ -1,3 +1,13 @@
+const nombresPersonas = [
+    "Juan",
+    "Pedro",
+    "Maria",
+    "Ana",
+    "Luis",
+    "Carlos"
+];
+
+
 const adjetivosCalificativos = [
     "excelente",
     "muy bueno",
@@ -7,15 +17,6 @@ const adjetivosCalificativos = [
     "muy malo"
 ];
 
-
-const nombresPersonas = [
-    "Juan",
-    "Pedro",
-    "Maria",
-    "Ana",
-    "Luis",
-    "Carlos"
-];
 
 const verbos = [
     "comiendo",
